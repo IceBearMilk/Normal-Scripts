@@ -1,7 +1,0 @@
---[[
-  Require's a Saiyan with Super Saiyan 3
-  Require's Flash Strike
-  Require's Low ping
-]]
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheUnknownScripter/Roblox/main/DBZFS/2x%20Freeze.lua"))()
