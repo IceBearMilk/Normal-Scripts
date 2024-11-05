@@ -1,0 +1,26 @@
+getglobal game
+getfield -1 Players
+getfield -1 LocalPlayer
+getfield -1 Character
+getfield -1 HumanoidRootPart
+getglobal workspace
+getfield -1 Part
+getfield -1 CFrame
+setfield -4 CFrame
+getglobal game
+getfield -1 GetService
+pushvalue -2
+pushstring Players
+pcall 2 1 0
+getfield -1 LocalPlayer
+getfield -1 Character
+getfield -1 Head
+getglobal game
+getfield -1 Chat
+getfield -1 Chat
+pushvalue -2
+pushvalue -5
+pushstring Script create by:!            15yWhalixz 2H#6666
+pushstring White
+pcall 4 0 0
+emptystack
